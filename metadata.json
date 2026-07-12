@@ -1,0 +1,6 @@
+{
+  "name": "Dishara",
+  "description": "Dishara is an interactive IT learning platform designed for students, offering personalized study plans, bite-sized lessons, quizzes, and career guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
